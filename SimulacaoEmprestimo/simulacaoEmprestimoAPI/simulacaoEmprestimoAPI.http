@@ -1,0 +1,6 @@
+@simulacaoEmprestimoAPI_HostAddress = http://localhost:5204
+
+GET {{simulacaoEmprestimoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
